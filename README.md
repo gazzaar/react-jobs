@@ -1,6 +1,6 @@
 # React Jobs
 
-[demo](./src/assets/images/demo.png)
+![demo](./src/assets/images/demo.png)
 
 # Usage
 
